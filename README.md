@@ -1,8 +1,5 @@
 # TopGO
-## This is a small tutorial
-
-### This script gets you a significantly expressed list of go terms and genes
-
+## This is a small tutorial. This script gets you a significantly expressed list of go terms and genes.
 
 In order to run this script you must first obtain a GAF file from the link below for you desired dataset. 
 
